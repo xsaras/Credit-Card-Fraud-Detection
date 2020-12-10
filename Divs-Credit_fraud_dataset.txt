@@ -1,0 +1,19 @@
+Problem Statement - goal is to build a classifier or a model that tells if a transaction is a fraud or not
+
+Fraud detection is a classification problem of the credit card transactions with two classes of legitimate or fraudulent.
+The credit card transaction datasets are highly imbalanced. Also due to privacy reasons, in the sitive customer transaction data the field names are usually changed so each attribute may be equally treated without giving any preference to any attribute in the dataset.
+
+Implementation can be done as follows - Random forest classfier,Navies bayes
+
+Data sets links - https://data.world/vlad/credit-card-fraud-detection
+                  https://www.kaggle.com/mlg-ulb/creditcardfraud/data
+
+Analysis and visualization in the below link for reference : https://data-science-projects.com/Fraud%20Detection%20from%20Credit%20Card%20Transactions_1.html
+
+
+Data set list 
+
+https://www.kaggle.com/shubhamjoshi2130of/abstract-data-set-for-credit-card-fraud-detection
+https://www.kaggle.com/olawalevictor1/fraud-detection?select=training.csv
+https://www.kaggle.com/enockkipng/fraud-data
+https://www.kaggle.com/kartikkkc/fraud-data?select=session_related.csv
