@@ -1,2 +1,5 @@
-Article on the challenges in Credit Card Fraud Detection and how to tackle them:
+Article on the challenges in Credit Card Fraud Detection and how to tackle them :
 https://www.geeksforgeeks.org/ml-credit-card-fraud-detection/#:~:text=Main%20challenges%20involved%20in%20credit,for%20detecting%20the%20fraudulent%20ones
+
+Analysis and visualization in the below link for reference :
+https://data-science-projects.com/Fraud%20Detection%20from%20Credit%20Card%20Transactions_1.html
