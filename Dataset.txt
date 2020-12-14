@@ -1,0 +1,15 @@
+Data set list :
+https://www.kaggle.com/shubhamjoshi2130of/abstract-data-set-for-credit-card-fraud-detection
+https://www.kaggle.com/olawalevictor1/fraud-detection?select=training.csv
+https://www.kaggle.com/enockkipng/fraud-data
+https://www.kaggle.com/kartikkkc/fraud-data?select=session_related.csv
+https://data.world/vlad/credit-card-fraud-detection
+https://www.kaggle.com/mlg-ulb/creditcardfraud/data
+https://www.kaggle.com/kartik2112/fraud-detection?select=fraudTrain.csv
+https://data.world/raghu543/credit-card-fraud-data
+https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)
+https://archive.ics.uci.edu/ml/datasets/Statlog+%28Australian+Credit+Approval%29
+https://data.world/vlad/credit-card-fraud-detection
+https://drive.google.com/file/d/1CTAlmlREFRaEN3NoHHitewpqAtWS5cVQ/view
+https://www.openml.org/d/1597
+https://github.com/mohitgupta-omg/Kaggle-Credit-Card-Fraud-Detection
